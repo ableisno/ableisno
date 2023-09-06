@@ -1,4 +1,4 @@
-### Hi there 👋
+### * 你好，我是刘家财，计算机科学与技术的学生,不善于交流，对软件技术充满好奇，爱好喜欢看动漫 
 
 <!--
 **ableisno/ableisno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
